@@ -1,11 +1,13 @@
 <div align="center">
   <img width="100%" src="banner.png" alt="GitHub Profile Banner" />
   
-  # Hi there! 👋 I'm Shravan
-  ### Software Developer from India 🇮🇳
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://csshravankumar.netlify.app)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1jcjIqzBunI3wWhbTgkUBFxDLccZHp4kF/view?usp=sharing)
+# Hi there! 👋 I'm Shravan
+
+## Software Developer from India 🇮🇳
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://csshravankumar.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1jcjIqzBunI3wWhbTgkUBFxDLccZHp4kF/view?usp=sharing)
+
 </div>
 
 ## 👨‍💻 About Me
@@ -15,7 +17,7 @@
 -   💼 Software Developer since 2023
 -   🌱 Currently learning Vue.js
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,31 +42,15 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-## 🌐 Socials:
+## 🌐 Socials
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/csshravankumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Shravan__7" target="_blank">
-  <img  src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-  <a href="mailto:shravank120@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-<a href="https://leetcode.com/u/Shravan__7" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
-</a>
-  <a href="https://stackoverflow.com/users/22402628/shravan-kumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://dev.to/csshravankumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-  <a href="https://medium.com/@skcode75" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-
-</div>
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/csshravankumar)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/Shravan__7)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:shravank120@gmail.com)
+[![LeetCode](https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge)](https://leetcode.com/u/Shravan__7)
+[![Stack Overflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/22402628/shravan-kumar)
+[![Dev.to](https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge)](https://dev.to/csshravankumar)
+[![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@skcode75)
 
 <!-- ## 📊 GitHub Analytics
 

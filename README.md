@@ -5,7 +5,7 @@
 
 <span style="font-size: 1.2em; font-weight: bold;">Software Developer from India 🇮🇳</span>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://csshravankumar.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://csshravankumar.netlify.app)
 <!-- [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1jcjIqzBunI3wWhbTgkUBFxDLccZHp4kF/view?usp=sharing) -->
 
 </div>
@@ -26,6 +26,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=#003B57)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

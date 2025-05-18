@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm Shravan
 
-<span style="font-size: 1.2em; font-weight: bold;">Software Developer from India 🇮🇳</span>
+<!-- ## Software Developer from India 🇮🇳 -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://csshravankumar.netlify.app)
 <!-- [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1jcjIqzBunI3wWhbTgkUBFxDLccZHp4kF/view?usp=sharing) -->
